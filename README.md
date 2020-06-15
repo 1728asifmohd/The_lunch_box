@@ -1,2 +1,4 @@
 # The_lunch_box
-for tiffin services
+For tiffin services
+
+for the management of the tiffin service where anyone can make their own account to provide tiffin facilities and people can connect with the particular provider in that area.
